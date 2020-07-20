@@ -13,6 +13,13 @@
    - Reformat timeseries data in Google Analytics   
    - Merging data
   #### Visualization
+   - Generete graphs for dashboard
   #### KPIs and Metrics
+   - Generate KPIs and metrics for dashboard
+  #### Monitoring
+   - Generate helpul alerts 
   #### Dashboarding
-  #### Sending by email
+   - Consilidate tables, graphs, KPIs, metrics and alerts in a dashboard
+  #### Marketing report generator
+   - Create a report generator to automate the previews steps
+  
