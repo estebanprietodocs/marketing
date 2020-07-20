@@ -12,3 +12,7 @@
    - Fix incorrectly recoreded Google Analytics Page data
    - Reformat timeseries data in Google Analytics   
    - Merging data
+  #### Visualization
+  #### KPIs and Metrics
+  #### Dashboarding
+  #### Sending by email
