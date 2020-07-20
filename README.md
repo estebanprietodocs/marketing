@@ -1,5 +1,5 @@
-# Marketing Data Analysis. Project Overview 
- - describir
+# Marketing Report Generator. Project Overview 
+ - Crear un aotomatizador de dashboadrs de marketing ( daily acumulado?)
 ## Code and resources used
  - Pytrends github https://github.com/GeneralMills/pytrends
 ## Steps
